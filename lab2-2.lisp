@@ -3,3 +3,7 @@
             (loop for line = (read-line in nil)
             while line do (format t "~a~%" line))
       (close in)))
+
+;; C:/roswell
+;; shift+ctrl+rightmouse открыть окно команл
+;; run ros.exe
